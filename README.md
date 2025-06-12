@@ -1,6 +1,6 @@
 <h1 align="center">Hey , Soy Luis Pablo Goez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%0055ff&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+la+tecnología;Construyendo+mis+primeros+proyectos;Interesado+en+el+desarrollo+web;Siempre+dispuesto+a+aprender+algo+nuevo"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%230055ff&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+la+tecnología;Construyendo+mis+primeros+proyectos;Interesado+en+el+desarrollo+web;Siempre+dispuesto+a+aprender+algo+nuevo"></a>
 </p>
 
 
